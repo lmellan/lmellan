@@ -1,7 +1,7 @@
 <div align="center">
   <h1> Lorna Mella </h1>
   <p> 
-    Programadora y estudiante de la Universidad Técnica Federico Santa Maria <br/>
+    Programadora y estudiante de ingeniería civil informática de la Universidad Técnica Federico Santa Maria <br/>
     Interesada en el análisis y diseño de software
   </p>
 
