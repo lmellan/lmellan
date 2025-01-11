@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmellan&layout=donut-vertical&bg_color=00000000&hide_border=true)](https://github.com/lmellan/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmellan\&layout=donut-vertical)](https://github.com/lmellan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmellan\&layout=donut-vertical&bg_color=00000000&hide_border=true)](https://github.com/lmellan/github-readme-stats)
 
 
 </div>
