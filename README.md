@@ -5,7 +5,7 @@
     Interesada en el análisis y diseño de software 
   </p>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmellan&layout=donut-vertical&theme=transparent&hide_)](https://github.com/lmellan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmellan&layout=donut-vertical&theme=transparent&hide_border=true)](https://github.com/lmellan/github-readme-stats)
 
 
 
