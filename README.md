@@ -6,7 +6,7 @@
   </p> 
    
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmellan&layout=donut-vertical&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff)](https://github.com/lmellan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmellan&layout=donut-vertical&theme=transparent&hide_border=true&title_color=ffffff)](https://github.com/lmellan/github-readme-stats)
 
 
 
