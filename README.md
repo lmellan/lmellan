@@ -4,6 +4,11 @@
     Programadora y estudiante de ingeniería civil informática de la Universidad Técnica Federico Santa María <br/>
     Interesada en el análisis y diseño de software
   </p>
-</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmellan&layout=donut-vertical&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff)](https://github.com/lmellan/github-readme-stats)
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmellan&layout=donut-vertical&theme=transparent&hide_border=true&title_color=ffffff&text_color=ffffff"
+      alt="Top Langs"
+    />
+  </a>
+</div>
